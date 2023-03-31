@@ -1,0 +1,151 @@
+{
+  "id": "raptor-rules",
+  "title": "Captain Raptor's Custom Rules",
+  "description": "Adds Raptor's custom dnd 5e rules",
+  "version": "0.8.1",
+  "authors": [
+  {
+	  "name": "Plank"
+  }
+  ],
+  "relationship.systems": ["dnd5e"],
+  "scripts": ["raptor-rules.js"],
+  "compatibility": {
+  "minimum": "9",
+  "verified": "10"
+  },
+  "packs": [
+    {
+      "name": "raptors-axes",
+	  "system": "dnd5e",
+      "label": "Raptor's Axes",
+      "path": "./packs/raptors-axes.db",
+	  "entity": "Item",
+	  "module": "raptor-rules",
+      "type": "Item",
+	  "private": false
+    },
+	{
+      "name": "raptors-polearms",
+	  "system": "dnd5e",
+      "label": "Raptor's Polearms",
+      "path": "./packs/raptors-polearms.db",
+	  "entity": "Item",
+	  "module": "raptor-rules",
+      "type": "Item",
+	  "private": false
+    },
+	{
+      "name": "raptors-swords",
+	  "system": "dnd5e",
+      "label": "Raptor's Swords",
+      "path": "./packs/raptors-swords.db",
+	  "entity": "Item",
+	  "module": "raptor-rules",
+      "type": "Item",
+	  "private": false
+    },
+	{
+      "name": "raptors-knives",
+	  "system": "dnd5e",
+      "label": "Raptor's Knives",
+      "path": "./packs/raptors-knives.db",
+	  "entity": "Item",
+	  "module": "raptor-rules",
+      "type": "Item",
+	  "private": false
+    },
+	{
+      "name": "raptors-hammers",
+	  "system": "dnd5e",
+      "label": "Raptor's Hammers",
+      "path": "./packs/raptors-hammers.db",
+	  "entity": "Item",
+	  "module": "raptor-rules",
+      "type": "Item",
+	  "private": false
+    },
+	{
+      "name": "raptors-bows",
+	  "system": "dnd5e",
+      "label": "Raptor's Bows",
+      "path": "./packs/raptors-bows.db",
+	  "entity": "Item",
+	  "module": "raptor-rules",
+      "type": "Item",
+	  "private": false
+    },
+	{
+      "name": "raptors-crossbows",
+	  "system": "dnd5e",
+      "label": "Raptor's Crossbows",
+      "path": "./packs/raptors-crossbows.db",
+	  "entity": "Item",
+	  "module": "raptor-rules",
+      "type": "Item",
+	  "private": false
+    },
+	{
+      "name": "raptors-exotic-melee-weapons",
+	  "system": "dnd5e",
+      "label": "Raptor's Exotic Melee Weapons",
+      "path": "./packs/raptors-exotic-melee-weapons.db",
+	  "entity": "Item",
+	  "module": "raptor-rules",
+      "type": "Item",
+	  "private": false
+    },
+	{
+      "name": "raptors-firearms",
+	  "system": "dnd5e",
+      "label": "Raptor's Firearms",
+      "path": "./packs/raptors-firearms.db",
+	  "entity": "Item",
+	  "module": "raptor-rules",
+      "type": "Item",
+	  "private": false
+    },
+	{
+      "name": "raptors-thrown-weapons",
+	  "system": "dnd5e",
+      "label": "Raptor's Thrown Weapons",
+      "path": "./packs/raptors-thrown-weapons.db",
+	  "entity": "Item",
+	  "module": "raptor-rules",
+      "type": "Item",
+	  "private": false
+    },
+	{
+      "name": "raptors-shields",
+	  "system": "dnd5e",
+      "label": "Raptor's Shields",
+      "path": "./packs/raptors-shields.db",
+	  "entity": "Item",
+	  "module": "raptor-rules",
+      "type": "Item",
+	  "private": false
+    },
+	{
+      "name": "raptors-spells",
+	  "system": "dnd5e",
+      "label": "Raptor's Spells",
+      "path": "./packs/raptors-spells.db",
+	  "entity": "Item",
+	  "module": "raptor-rules",
+      "type": "Item",
+	  "private": false
+    },
+	{
+      "name": "raptors-rules",
+      "label": "Raptor's Rules",
+      "path": "./packs/raptors-rules.db",
+	  "entity": "JournalEntry",
+	  "module": "raptor-rules",
+      "type": "JournalEntry",
+	  "private": false
+    }
+  ],
+  "manifest": "",
+  "download": ""
+
+}
