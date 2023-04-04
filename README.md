@@ -1,4 +1,4 @@
-# raptor-rules-for-5e
+# raptor-edition-for-5e
 
 This is a module for the 5th edition system in Foundry VTT meant to implement the custom rulings of Captain Raptor, anyone is free to use it.
 
